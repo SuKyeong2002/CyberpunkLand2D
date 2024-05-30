@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e1d0a1b4cd5d3a4b9bd54f90a703178
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigid: {instanceID: 0}
+  - pfHulkExplosion: {instanceID: 0}
+  - collisionSound: {fileID: 8300000, guid: d64fed592330ef6419b1c5b7b5673693, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
